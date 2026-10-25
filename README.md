@@ -14,4 +14,4 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JFUIX&bg_color=11141a&color=7ee787&line=7ee787&point=ffffff&area=true&area_color=7ee787&hide_border=false&border_color=2a2f3a&title_color=ffffff&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" /> </div>
+<img src="https://ghchart.rshah.org/7ee787/JFUIX" width="100%" alt="Contribution Graph" />
