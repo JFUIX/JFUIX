@@ -33,7 +33,7 @@ Gym website with memberships and a BMI calculator.
 
 Dark, dreamy cookie bakery website concept. [Live demo](https://jfuix.github.io/CrumbleCookiesbyTim/) · [Repository](https://github.com/JFUIX/CrumbleCookiesbyTim)
 
-<img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-full.png" width="100%" alt="CrumbleCookies by Tim full desktop website screenshot">
+<img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-order.png" width="100%" alt="CrumbleCookies by Tim order section screenshot">
 
 ### Ad Campaign Assistant
 <a href="https://github.com/JFUIX/adcampaign-assistant">
