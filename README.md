@@ -15,3 +15,11 @@
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/7ee787/JFUIX" width="100%" alt="Contribution Graph" />
+
+## Projects
+
+<a href="https://github.com/JFUIX/Gainshred">
+  <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/banner.png" width="100%" alt="GainShred">
+</a>
+
+**[GainShred Gym](https://github.com/JFUIX/Gainshred)**: gym website with memberships and a BMI calculator. [Live demo](https://jfuix.github.io/Gainshred/)
