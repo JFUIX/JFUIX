@@ -30,9 +30,6 @@
   <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/hero.png" width="100%" alt="CrumbleCookies by Tim">
 </a>
 
-
-**[CrumbleCookies by Tim](https://github.com/JFUIX/CrumbleCookiesbyTim)**: dark, dreamy cookie bakery website concept. [Live demo](https://jfuix.github.io/CrumbleCookiesbyTim/)
-<a href="https://github.com/JFUIX/adcampaign-assistant">
   <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshots/campaign-planner.svg" width="100%" alt="Ad Campaign Assistant - campaign planner preview">
 </a>
 
