@@ -18,20 +18,26 @@
 
 ## Projects
 
+### GainShred Gym
 <a href="https://github.com/JFUIX/Gainshred">
-  <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/banner.png" width="100%" alt="GainShred">
+  <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/banner.png" width="100%" alt="GainShred Gym website banner">
 </a>
+<img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/bmi.png" width="100%" alt="GainShred BMI calculator preview">
 
-**[GainShred Gym](https://github.com/JFUIX/Gainshred)**: Gym website with memberships and a BMI calculator.
-<img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/bmi.png" width="100%" alt="GainShred">
+Gym website with memberships and a BMI calculator.
 
-
+### CrumbleCookies by Tim
 <a href="https://github.com/JFUIX/CrumbleCookiesbyTim">
-  <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/hero.png" width="100%" alt="CrumbleCookies by Tim">
+  <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/hero.png" width="100%" alt="CrumbleCookies by Tim website hero">
 </a>
+<img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-full.png" width="100%" height="280" style="object-fit:cover;object-position:top" alt="CrumbleCookies by Tim short page preview">
 
-  <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshots/campaign-planner.svg" width="100%" alt="Ad Campaign Assistant - campaign planner preview">
+Dark, dreamy cookie bakery website concept. [Live demo](https://jfuix.github.io/CrumbleCookiesbyTim/) · [Repository](https://github.com/JFUIX/CrumbleCookiesbyTim)
+
+### Ad Campaign Assistant
+<a href="https://github.com/JFUIX/adcampaign-assistant">
+  <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshots/campaign-planner.svg" width="100%" alt="Ad Campaign Assistant campaign planner preview">
 </a>
+<img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshots/data-review.svg" width="100%" alt="Ad Campaign Assistant data review preview">
 
-
-**[Ad Campaign Assistant](https://github.com/JFUIX/adcampaign-assistant)**: AI-assisted campaign planning and ad-performance review concept, with creative angles, headline ideas, testing checklists, and screenshot-based campaign analysis. [View data review preview](https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshots/data-review.svg)
+AI-assisted campaign planning and ad-performance review concept, with creative angles, headline ideas, testing checklists, and screenshot-based campaign analysis. [Repository](https://github.com/JFUIX/adcampaign-assistant)
