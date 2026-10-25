@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<b>i don't know whether I'm supposed to test my codes or they're supposed to test me.</b>
+<b>I still can’t tell if I’m testing my codes or they're testing me.</b>
 
 <br/><br/>
 
