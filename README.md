@@ -37,8 +37,9 @@ Dark, dreamy cookie bakery website concept. [Live demo](https://jfuix.github.io/
 
 ### Ad Campaign Assistant
 <a href="https://github.com/JFUIX/adcampaign-assistant">
-  <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshots/campaign-planner.svg" width="100%" alt="Ad Campaign Assistant campaign planner preview">
+  <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/campaign-planner.svg.png" width="100%" alt="Ad Campaign Assistant campaign planner screenshot">
 </a>
-<img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshots/data-review.svg" width="100%" alt="Ad Campaign Assistant data review preview">
 
-AI-assisted campaign planning and ad-performance review concept, with creative angles, headline ideas, testing checklists, and screenshot-based campaign analysis. [Repository](https://github.com/JFUIX/adcampaign-assistant)
+AI-assisted campaign planning and ad-performance review, with creative angles, headline ideas, testing checklists, and screenshot-based campaign analysis. [Live demo](https://jfuix.github.io/adcampaign-assistant/) · [Repository](https://github.com/JFUIX/adcampaign-assistant)
+
+<img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/data-review.svg.png" width="100%" alt="Ad Campaign Assistant campaign data review screenshot">
