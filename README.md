@@ -23,3 +23,11 @@
 </a>
 
 **[GainShred Gym](https://github.com/JFUIX/Gainshred)**: gym website with memberships and a BMI calculator. [Live demo](https://jfuix.github.io/Gainshred/)
+
+## Projects
+
+<a href="https://github.com/JFUIX/CrumbleCookiesbyTim">
+  <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/hero.png" width="100%" alt="CrumbleCookies by Tim">
+</a>
+
+**[CrumbleCookies by Tim](https://github.com/JFUIX/CrumbleCookiesbyTim)**: dark, dreamy cookie bakery website concept. [Live demo](https://jfuix.github.io/CrumbleCookiesbyTim/)
