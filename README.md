@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=220&section=header&text=Welcome%20to%20Jaffery's%20Github&fontColor=ffffff&fontSize=32&fontAlignY=40&desc=%3C%2F%3E&descSize=28&descAlignY=62" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=220&section=header&text=Welcome%20to%20Jaffery%E2%80%99s%20Github&fontColor=ffffff&fontSize=32&fontAlignY=40" width="100%" alt="banner" />
+
+<h3>&lt;/&gt;</h3>
 
 </div>
 
@@ -58,6 +60,6 @@ I create digital solutions for startups, businesses and growing brands.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JFUIX&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff&custom_title=Jaffery's%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JFUIX&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff&custom_title=Jaffery%E2%80%99s%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
