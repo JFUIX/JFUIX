@@ -1,15 +1,26 @@
-**Welcome to Jaffery's Github**
+name: profile-3d-contrib
 
-**About me**
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
-**Hi, I'm Jaffery.**
+permissions:
+  contents: write
 
-**I create digital solutions for startups, businesses and growing brands.**
-
-**Statistics**
-
-**[GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFUIX&show_icons=true&theme=dark)**
-
-**[GitHub Streak](https://streak-stats.demolab.com/?user=JFUIX&theme=dark)**
-
-**[Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JFUIX&theme=github-dark)**
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git commit -m "update 3d contributions" || exit 0
+          git push
