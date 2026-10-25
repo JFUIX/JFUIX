@@ -22,7 +22,9 @@
   <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/banner.png" width="100%" alt="GainShred">
 </a>
 
-**[GainShred Gym](https://github.com/JFUIX/Gainshred)**: gym website with memberships and a BMI calculator. [Live demo](https://jfuix.github.io/Gainshred/)
+**[GainShred Gym](https://github.com/JFUIX/Gainshred)**: Gym website with memberships and a BMI calculator.
+<img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/bmi.png" width="100%" alt="GainShred">
+</a>
 
 ## Projects
 
