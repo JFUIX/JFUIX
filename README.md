@@ -26,6 +26,10 @@
 
 Gym website with memberships and a BMI calculator.
 
+Dark, editorial homepage redesign concept for The Shane Foundation, a nonprofit raising awareness of blood clot risks linked to birth control and pregnancy, with topic sections, a warning signs call to action, a dotted "where we operate" map, and a contact form. Live demo · Repository
+
+<img src="https://raw.githubusercontent.com/JFUIX/NGO---TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation homepage redesign screenshot">
+
 ### Ad Campaign Assistant
 <a href="https://github.com/JFUIX/adcampaign-assistant">
   <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/data-review.svg.png" width="100%" alt="Ad Campaign Assistant campaign planner screenshot">
