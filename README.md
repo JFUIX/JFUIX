@@ -23,7 +23,29 @@
 
 ## Selected Projects
 
-### GainShred Gym
+### 1. The Shane Foundation
+
+<a href="https://github.com/JFUIX/NGO---TSF">
+  <img src="https://raw.githubusercontent.com/JFUIX/NGO---TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation nonprofit homepage redesign">
+</a>
+
+An editorial-style nonprofit homepage redesign concept focused on blood-clot awareness, accessible information, research, and donation pathways. Demonstrates responsive front-end development and a strong visual direction.
+
+[Live demo](https://jfuix.github.io/NGO-TSF/) · [Repository](https://github.com/JFUIX/NGO---TSF)
+
+### 2. Ad Campaign Assistant
+
+<a href="https://github.com/JFUIX/adcampaign-assistant">
+  <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/campaign-planner.svg.png" width="100%" alt="Ad Campaign Assistant campaign planner">
+</a>
+
+An AI-assisted marketing tool for campaign ideation, creative angles, headline generation, testing checklists, and reviewing campaign performance screenshots.
+
+[Live demo](https://jfuix.github.io/adcampaign-assistant/) · [Repository](https://github.com/JFUIX/adcampaign-assistant)
+
+<img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/data-review.svg.png" width="100%" alt="Ad Campaign Assistant campaign data review">
+
+### 3. GainShred Gym
 
 <a href="https://github.com/JFUIX/Gainshred">
   <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/banner.png" width="100%" alt="GainShred Gym website banner">
@@ -31,32 +53,18 @@
 
 <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/bmi.png" width="100%" alt="GainShred BMI calculator preview">
 
-Gym website concept featuring membership information and a BMI calculator. [Live demo](https://jfuix.github.io/Gainshred/) · [Repository](https://github.com/JFUIX/Gainshred)
+A gym website concept featuring membership information and an interactive BMI calculator.
 
-### The Shane Foundation
+[Live demo](https://jfuix.github.io/Gainshred/) · [Repository](https://github.com/JFUIX/Gainshred)
 
-<a href="https://github.com/JFUIX/NGO---TSF">
-  <img src="https://raw.githubusercontent.com/JFUIX/NGO---TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation homepage redesign">
-</a>
-
-Independent, editorial-style nonprofit homepage redesign concept focused on blood-clot awareness, responsive navigation, research, and donation pathways. [Live demo](https://jfuix.github.io/NGO-TSF/) · [Repository](https://github.com/JFUIX/NGO---TSF)
-
-### Ad Campaign Assistant
-
-<a href="https://github.com/JFUIX/adcampaign-assistant">
-  <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/data-review.svg.png" width="100%" alt="Ad Campaign Assistant campaign planner screenshot">
-</a>
-
-AI-assisted campaign planning and ad-performance review, with creative angles, headline ideas, testing checklists, and screenshot-based campaign analysis. [Live demo](https://jfuix.github.io/adcampaign-assistant/) · [Repository](https://github.com/JFUIX/adcampaign-assistant)
-
-<img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/campaign-planner.svg.png" width="100%" alt="Ad Campaign Assistant campaign data review screenshot">
-
-### CrumbleCookies by Tim
+### 4. CrumbleCookies by Tim
 
 <a href="https://github.com/JFUIX/CrumbleCookiesbyTim">
   <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/hero.png" width="100%" alt="CrumbleCookies by Tim website hero">
 </a>
 
-Dark, dreamy cookie bakery website concept. [Live demo](https://jfuix.github.io/CrumbleCookiesbyTim/) · [Repository](https://github.com/JFUIX/CrumbleCookiesbyTim)
+A dark, dreamy bakery website concept showcasing a distinctive visual identity and an online ordering experience.
+
+[Live demo](https://jfuix.github.io/CrumbleCookiesbyTim/) · [Repository](https://github.com/JFUIX/CrumbleCookiesbyTim)
 
 <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-order.png" width="100%" alt="CrumbleCookies by Tim order section">
