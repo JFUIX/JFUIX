@@ -33,17 +33,11 @@ A project discovery and assessment platform concept that helps founders and busi
 
 ### 2. Ad Campaign Assistant
 
- <!-- SECOND IMAGE (place this first) -->
-<img src="YOUR_SECOND_IMAGE_URL" width="100%" alt="Ad Campaign Assistant screenshot">
+<!-- 1. Review SVG -->
+<img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/review.svg.png" width="100%" alt="Ad Campaign Assistant review">
 
-<!-- FIRST IMAGE (place this second) -->
+<!-- 2. Campaign Planner SVG -->
 <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/campaign-planner.svg.png" width="100%" alt="Ad Campaign Assistant campaign planner">
-
-An AI-assisted marketing tool for campaign ideation, creative angles, headline generation, testing checklists, and reviewing campaign performance screenshots.
-
-[Live demo](https://jfuix.github.io/adcampaign-assistant/) · [Repository](https://github.com/JFUIX/adcampaign-assistant)
-
-<img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/data-review.svg.png" width="100%" alt="Ad Campaign Assistant campaign data review">
 
 ### 3. GainShred Gym
 
