@@ -23,15 +23,13 @@
 
 ## Selected Projects
 
-### 1. The Shane Foundation
+### 1. Waypoint
 
-<a href="https://github.com/JFUIX/NGO---TSF">
-  <img src="https://raw.githubusercontent.com/JFUIX/NGO---TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation nonprofit homepage redesign">
+<a href="https://github.com/JFUIX/waypoint">
+  <img src="https://raw.githubusercontent.com/JFUIX/waypoint/main/screenshots/assesment.png" width="100%" alt="Waypoint project assessment screenshot">
 </a>
 
-An editorial-style nonprofit homepage redesign concept focused on blood-clot awareness, accessible information, research, and donation pathways. Demonstrates responsive front-end development and a strong visual direction.
-
-[Live demo](https://jfuix.github.io/NGO-TSF/) · [Repository](https://github.com/JFUIX/NGO---TSF)
+A project discovery and assessment platform concept that helps founders and business owners understand their next steps, identify the support they need, and discover relevant people and services. Features a guided assessment, project readiness report, and sample provider directory.
 
 ### 2. Ad Campaign Assistant
 
@@ -69,12 +67,14 @@ A dark, dreamy bakery website concept showcasing a distinctive visual identity a
 
 <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-order.png" width="100%" alt="CrumbleCookies by Tim order section">
 
-### 5. Waypoint
+### 5. The Shane Foundation
 
-<a href="https://github.com/JFUIX/waypoint">
-  <img src="https://raw.githubusercontent.com/JFUIX/waypoint/main/screenshots/assesment.png" width="100%" alt="Waypoint project assessment screenshot">
+<a href="https://github.com/JFUIX/NGO---TSF">
+  <img src="https://raw.githubusercontent.com/JFUIX/NGO---TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation nonprofit homepage redesign">
 </a>
 
-A project discovery and assessment platform concept that helps founders and business owners understand their next steps, identify the support they need, and discover relevant people and services. Features a guided assessment, project readiness report, and sample provider directory.
+An editorial-style nonprofit homepage redesign concept focused on blood-clot awareness, accessible information, research, and donation pathways. Demonstrates responsive front-end development and a strong visual direction.
+
+[Live demo](https://jfuix.github.io/NGO-TSF/) · [Repository](https://github.com/JFUIX/NGO---TSF)
 
 
