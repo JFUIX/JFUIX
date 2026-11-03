@@ -34,7 +34,7 @@ A project discovery and assessment platform concept that helps founders and busi
 ### 2. Ad Campaign Assistant
 
 <a href="https://github.com/JFUIX/adcampaign-assistant">
-  <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/review.svg.png" width="100%" alt="Ad Campaign Assistant campaign review">
+  <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/data-review.svg.png" width="100%" alt="Ad Campaign Assistant campaign review">
 </a>
 
 An AI-assisted marketing tool for campaign ideation, creative angles, headline generation, testing checklists, and reviewing campaign performance screenshots.
