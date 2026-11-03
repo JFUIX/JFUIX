@@ -71,6 +71,12 @@ A dark, dreamy bakery website concept showcasing a distinctive visual identity a
 
 ### 5. Waypoint
 
+<a href="https://github.com/JFUIX/waypoint">
+  <img src="https://raw.githubusercontent.com/JFUIX/waypoint/main/screenshots/hero.png" width="100%" alt="Waypoint website hero">
+</a>
+
 A project discovery and assessment platform concept that helps founders and business owners understand their next steps, identify the support they need, and discover relevant people and services. Features a guided assessment, project readiness report, and sample provider directory.
 
 [Live demo](https://jfuix.github.io/waypoint/) · [Repository](https://github.com/JFUIX/waypoint)
+
+<img src="https://raw.githubusercontent.com/JFUIX/waypoint/main/screenshots/assessment.png" width="100%" alt="Waypoint project assessment section">
