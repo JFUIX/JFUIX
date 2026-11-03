@@ -68,3 +68,9 @@ A dark, dreamy bakery website concept showcasing a distinctive visual identity a
 [Live demo](https://jfuix.github.io/CrumbleCookiesbyTim/) · [Repository](https://github.com/JFUIX/CrumbleCookiesbyTim)
 
 <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-order.png" width="100%" alt="CrumbleCookies by Tim order section">
+
+### 5. Waypoint
+
+A project discovery and assessment platform concept that helps founders and business owners understand their next steps, identify the support they need, and discover relevant people and services. Features a guided assessment, project readiness report, and sample provider directory.
+
+[Live demo](https://jfuix.github.io/waypoint/) · [Repository](https://github.com/JFUIX/waypoint)
