@@ -23,6 +23,17 @@
 
 ## Selected Projects
 
+### Artiosis — Digital Solutions
+
+<a href="https://github.com/JFUIX/artiosis">
+  <img src="https://image.thum.io/get/width/1200/https://artiosis-two.vercel.app/" width="100%" alt="Artiosis digital agency website homepage preview">
+</a>
+
+A responsive digital agency website built with Next.js, React and TypeScript. Features dark teal glassmorphism, service showcases, portfolio filtering, testimonials layout, FAQs, and project inquiry calls to action.
+
+[Live website](https://artiosis-two.vercel.app/) · [Repository](https://github.com/JFUIX/artiosis)
+
+
 ### 1. HustleWise
 
 <a href="https://github.com/JFUIX/HustleWise">
