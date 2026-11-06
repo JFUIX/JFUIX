@@ -23,7 +23,7 @@
 
 ## Selected Projects
 
-### 1. Waypoint
+### 1. HustleWise
 
 <a href="https://github.com/JFUIX/waypoint">
   <img src="https://raw.githubusercontent.com/JFUIX/waypoint/main/screenshots/assesment.png" width="100%" alt="Waypoint project assessment screenshot">
