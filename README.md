@@ -25,8 +25,8 @@
 
 ### 1. HustleWise
 
-<a href="https://github.com/JFUIX/waypoint">
-  <img src="https://raw.githubusercontent.com/JFUIX/waypoint/main/screenshots/assesment.png" width="100%" alt="Waypoint project assessment screenshot">
+<a href="https://github.com/JFUIX/husltewise">
+  <img src="https://raw.githubusercontent.com/JFUIX/hustlewise/main/screenshots/assesment.png" width="100%" alt="hustlewise project assessment screenshot">
 </a>
 
 A project discovery and assessment platform concept that helps founders and business owners understand their next steps, identify the support they need, and discover relevant people and services. Features a guided assessment, project readiness report, and sample provider directory.
