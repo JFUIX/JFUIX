@@ -23,7 +23,7 @@
 
 ## Selected Projects
 
-### Artiosis — Digital Solutions
+### Artiosis - Digital Solutions
 
 <a href="https://github.com/JFUIX/artiosis">
   <img src="https://image.thum.io/get/width/1200/https://artiosis-two.vercel.app/" width="100%" alt="Artiosis digital agency website homepage preview">
