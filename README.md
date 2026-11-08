@@ -23,21 +23,23 @@
 
 ## Selected Projects
 
-### Artiosis — Creative Technology Agency
+### Artiosis | Creative Technology Agency
 
-A responsive agency website with a dark teal identity, animated interactions, three core service pillars, clear contact options, and a guided project inquiry form.
+**Turning ambitious ideas into digital experiences.**
+
+A responsive creative technology agency website with a premium dark identity, three core service pillars, animated interactions, and clear contact options. The final version includes four portfolio category previews with hover slides and mobile controls.
 
 [Live website](https://artiosis-two.vercel.app/) · [Repository](https://github.com/JFUIX/artiosis)
 
-<a href="https://github.com/JFUIX/artiosis">
-  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-01-hero-services.webp" width="100%" alt="Artiosis homepage hero and interactive services showcase">
+<a href="https://artiosis-two.vercel.app/">
+  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-01-hero-services.webp?v=final-20261109" width="100%" alt="Artiosis final homepage hero and interactive services">
 </a>
 
-<a href="https://github.com/JFUIX/artiosis">
-  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-02-contact-inquiry.webp" width="100%" alt="Artiosis contact options and project inquiry form">
+<a href="https://artiosis-two.vercel.app/#contact">
+  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-02-contact-inquiry.webp?v=final-20261109" width="100%" alt="Artiosis final contact cards and project inquiry section">
 </a>
 
-Built with **Next.js, React, and TypeScript** · Deployed on **Vercel**.
+Built with **Next.js, React, TypeScript, HTML, CSS, and JavaScript** · Deployed on **Vercel**.
 
 ### 1. HustleWise
 
