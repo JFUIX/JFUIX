@@ -25,7 +25,7 @@
 
 ### Artiosis — Creative Technology Agency
 
-A responsive agency website with a dark teal identity, animated interactions, three core service pillars, a portfolio showcase, and four clear website and social media packages.
+A responsive agency website with a dark teal identity, animated interactions, three core service pillars, client testimonials, and an accessible FAQ.
 
 [Live website](https://artiosis-two.vercel.app/) · [Repository](https://github.com/JFUIX/artiosis)
 
@@ -34,7 +34,7 @@ A responsive agency website with a dark teal identity, animated interactions, th
 </a>
 
 <a href="https://github.com/JFUIX/artiosis">
-  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-02-work-packages.webp" width="100%" alt="Artiosis selected portfolio work, delivery process, and four service packages">
+  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-02-clients-faq.webp" width="100%" alt="Artiosis client testimonials and frequently asked questions">
 </a>
 
 Built with **Next.js, React, and TypeScript** · Deployed on **Vercel**.
