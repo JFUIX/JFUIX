@@ -23,16 +23,21 @@
 
 ## Selected Projects
 
-### Artiosis - Digital Solutions
+### Artiosis — Creative Technology Agency
 
-<a href="https://github.com/JFUIX/artiosis">
-  <img src="https://image.thum.io/get/width/1200/https://artiosis-two.vercel.app/" width="100%" alt="Artiosis digital agency website homepage preview">
-</a>
-
-A responsive digital agency website built with Next.js, React and TypeScript. Features dark teal glassmorphism, service showcases, portfolio filtering, testimonials layout, FAQs, and project inquiry calls to action.
+A responsive agency website with a dark teal identity, animated interactions, three core service pillars, a portfolio showcase, and four clear website and social media packages.
 
 [Live website](https://artiosis-two.vercel.app/) · [Repository](https://github.com/JFUIX/artiosis)
 
+<a href="https://github.com/JFUIX/artiosis">
+  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-01-hero-services.webp" width="100%" alt="Artiosis homepage hero and interactive services showcase">
+</a>
+
+<a href="https://github.com/JFUIX/artiosis">
+  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-02-work-packages.webp" width="100%" alt="Artiosis selected portfolio work, delivery process, and four service packages">
+</a>
+
+Built with **Next.js, React, and TypeScript** · Deployed on **Vercel**.
 
 ### 1. HustleWise
 
