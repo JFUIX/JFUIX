@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph">
+<img src="https://raw.githubusercontent.com/JFUIX/JFUIX/main/profile-3d-contrib/profile-night-view.svg?languages=20261109-2" width="100%" alt="3D contribution graph with HTML, JavaScript, TypeScript, and CSS language breakdown">
 <br><br>
 
 <img src="https://ghchart.rshah.org/7ee787/JFUIX" width="100%" alt="Contribution Graph">
