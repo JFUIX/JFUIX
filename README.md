@@ -39,7 +39,7 @@ The official Artiosis website, live on its custom domain. Features a dark teal i
   <img src="https://raw.githubusercontent.com/JFUIX/Artiosis/main/screenshots/artiosis-02-contact-inquiry.webp?v=final-20261109" width="100%" alt="Artiosis contact cards and project inquiry section">
 </a>
 
-Built with **Next.js, React, TypeScript, HTML, CSS, and JavaScript** · Hosted on **Vercel**.
+Built with **Next.js, React, TypeScript, HTML, CSS, and JavaScript** ·
 
 ### 2. HustleWise
 
