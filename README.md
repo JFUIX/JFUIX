@@ -27,8 +27,6 @@
 
 **Turning ambitious ideas into digital experiences.**
 
-The official Artiosis website, live on its custom domain. Features a dark teal identity, three service pillars, a softly glowing logo dot, four edge-to-edge portfolio category sliders, and dedicated project collections with detailed case studies.
-
 [Live website](https://artiosis.com/) · [Portfolio](https://artiosis.com/work.html) · [Repository](https://github.com/JFUIX/Artiosis)
 
 <a href="https://artiosis.com/">
