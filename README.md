@@ -21,12 +21,6 @@
 
 </div>
 
-## Languages used
-
-**HTML · CSS · JavaScript · TypeScript**
-
-The chart names each language detected in my public project repositories. Its percentages reflect source-code bytes, not proficiency; GitHub counts inline CSS and JavaScript inside HTML files as HTML.
-
 ## Selected Projects
 
 ### 1. Artiosis | Creative Technology Agency
