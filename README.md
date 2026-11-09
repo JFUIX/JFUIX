@@ -21,27 +21,33 @@
 
 </div>
 
+## Languages used
+
+**HTML · CSS · JavaScript · TypeScript**
+
+The chart names each language detected in my public project repositories. Its percentages reflect source-code bytes, not proficiency; GitHub counts inline CSS and JavaScript inside HTML files as HTML.
+
 ## Selected Projects
 
-### Artiosis | Creative Technology Agency
+### 1. Artiosis | Creative Technology Agency
 
 **Turning ambitious ideas into digital experiences.**
 
-A responsive creative technology agency website with a premium dark identity, three core service pillars, animated interactions, and clear contact options. The final version includes four portfolio category previews with hover slides and mobile controls.
+The official Artiosis website, live on its custom domain. Features a dark teal identity, three service pillars, a softly glowing logo dot, four edge-to-edge portfolio category sliders, and dedicated project collections with detailed case studies.
 
-[Live website](https://artiosis.com/) · [Repository](https://github.com/JFUIX/artiosis)
+[Live website](https://artiosis.com/) · [Portfolio](https://artiosis.com/work.html) · [Repository](https://github.com/JFUIX/Artiosis)
 
 <a href="https://artiosis.com/">
-  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-01-hero-services.webp?v=final-20261109" width="100%" alt="Artiosis final homepage hero and interactive services">
+  <img src="https://raw.githubusercontent.com/JFUIX/Artiosis/main/screenshots/artiosis-01-hero-services.webp?v=final-20261109" width="100%" alt="Artiosis homepage hero and interactive services">
 </a>
 
 <a href="https://artiosis.com/#contact">
-  <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-02-contact-inquiry.webp?v=final-20261109" width="100%" alt="Artiosis final contact cards and project inquiry section">
+  <img src="https://raw.githubusercontent.com/JFUIX/Artiosis/main/screenshots/artiosis-02-contact-inquiry.webp?v=final-20261109" width="100%" alt="Artiosis contact cards and project inquiry section">
 </a>
 
-Built with **Next.js, React, TypeScript, HTML, CSS, and JavaScript** · Deployed on **Vercel**.
+Built with **Next.js, React, TypeScript, HTML, CSS, and JavaScript** · Hosted on **Vercel**.
 
-### 1. HustleWise
+### 2. HustleWise
 
 <a href="https://github.com/JFUIX/HustleWise">
   <img src="https://image.thum.io/get/width/1200/crop/800/https://jfuix.github.io/HustleWise/" width="100%" alt="hustlewise project assessment screenshot">
@@ -49,7 +55,9 @@ Built with **Next.js, React, TypeScript, HTML, CSS, and JavaScript** · Deployed
 
 A project discovery and assessment platform concept that helps founders and business owners understand their next steps, identify the support they need, and discover relevant people and services. Features a guided assessment, project readiness report, and sample provider directory.
 
-### 2. Ad Campaign Assistant
+[Live demo](https://jfuix.github.io/HustleWise/) · [Repository](https://github.com/JFUIX/HustleWise)
+
+### 3. Ad Campaign Assistant
 
 <a href="https://github.com/JFUIX/adcampaign-assistant">
   <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/data-review.svg.png" width="100%" alt="Ad Campaign Assistant campaign review">
@@ -61,19 +69,19 @@ An AI-assisted marketing tool for campaign ideation, creative angles, headline g
 
 <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/campaign-planner.svg.png" width="100%" alt="Ad Campaign Assistant campaign planner">
 
-### 3. GainShred Gym
+### 4. Gain Shred Gym
 
 <a href="https://github.com/JFUIX/Gainshred">
-  <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/banner.png" width="100%" alt="GainShred Gym website banner">
+  <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/banner.png" width="100%" alt="Gain Shred Gym website banner">
 </a>
 
-<img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/bmi.png" width="100%" alt="GainShred BMI calculator preview">
+<img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/bmi.png" width="100%" alt="Gain Shred BMI calculator preview">
 
 A gym website concept featuring membership information and an interactive BMI calculator.
 
 [Live demo](https://jfuix.github.io/Gainshred/) · [Repository](https://github.com/JFUIX/Gainshred)
 
-### 4. CrumbleCookies by Tim
+### 5. CrumbleCookies by Tim
 
 <a href="https://github.com/JFUIX/CrumbleCookiesbyTim">
   <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/hero.png" width="100%" alt="CrumbleCookies by Tim website hero">
@@ -85,14 +93,14 @@ A dark, dreamy bakery website concept showcasing a distinctive visual identity a
 
 <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-order.png" width="100%" alt="CrumbleCookies by Tim order section">
 
-### 5. The Shane Foundation
+### 6. The Shane Foundation
 
-<a href="https://github.com/JFUIX/NGO---TSF">
-  <img src="https://raw.githubusercontent.com/JFUIX/NGO---TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation nonprofit homepage redesign">
+<a href="https://github.com/JFUIX/TSF">
+  <img src="https://raw.githubusercontent.com/JFUIX/TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation nonprofit homepage redesign">
 </a>
 
 An editorial-style nonprofit homepage redesign concept focused on blood-clot awareness, accessible information, research, and donation pathways. Demonstrates responsive front-end development and a strong visual direction.
 
-[Live demo](https://jfuix.github.io/NGO-TSF/) · [Repository](https://github.com/JFUIX/NGO---TSF)
+[Live demo](https://jfuix.github.io/TSF/) · [Repository](https://github.com/JFUIX/TSF)
 
 

@@ -1,0 +1,9 @@
+{
+  "metric": "GitHub-detected source bytes",
+  "languages": {
+    "HTML": 977710,
+    "JavaScript": 21270,
+    "TypeScript": 19037,
+    "CSS": 3283
+  }
+}

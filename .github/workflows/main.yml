@@ -17,6 +17,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Update named language chart
+        run: python3 .github/scripts/update_language_chart.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
