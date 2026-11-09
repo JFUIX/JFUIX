@@ -29,13 +29,13 @@
 
 A responsive creative technology agency website with a premium dark identity, three core service pillars, animated interactions, and clear contact options. The final version includes four portfolio category previews with hover slides and mobile controls.
 
-[Live website](https://artiosis-two.vercel.app/) · [Repository](https://github.com/JFUIX/artiosis)
+[Live website](https://artiosis.com/) · [Repository](https://github.com/JFUIX/artiosis)
 
-<a href="https://artiosis-two.vercel.app/">
+<a href="https://artiosis.com/">
   <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-01-hero-services.webp?v=final-20261109" width="100%" alt="Artiosis final homepage hero and interactive services">
 </a>
 
-<a href="https://artiosis-two.vercel.app/#contact">
+<a href="https://artiosis.com/#contact">
   <img src="https://raw.githubusercontent.com/JFUIX/artiosis/main/screenshots/artiosis-02-contact-inquiry.webp?v=final-20261109" width="100%" alt="Artiosis final contact cards and project inquiry section">
 </a>
 
