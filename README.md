@@ -41,13 +41,15 @@ Built with **Next.js, React, TypeScript, HTML, CSS, and JavaScript** ·
 
 ### 2. HustleWise
 
-<a href="https://github.com/JFUIX/HustleWise">
-  <img src="https://image.thum.io/get/width/1200/crop/800/https://jfuix.github.io/HustleWise/" width="100%" alt="hustlewise project assessment screenshot">
+**Business direction, relevant people, and practical support.**
+
+<a href="https://jfuix.github.io/HustleWise/">
+  <img src="https://raw.githubusercontent.com/JFUIX/HustleWise/0fbc69f99a52ed81dff4716677a0b64c05f366e8/screenshots/hustlewise-current.png" width="100%" alt="HustleWise early-access website with a reflective chrome hero and business support journeys">
 </a>
 
-A project discovery and assessment platform concept that helps founders and business owners understand their next steps, identify the support they need, and discover relevant people and services. Features a guided assessment, project readiness report, and sample provider directory.
+A business-focused platform prototype combining guided business briefs, collaborator and expert discovery, and distinct project-support and funding pathways. Features a responsive graphite interface, live reflective chrome artwork, floating cards, searchable example listings, and a consent-based enquiry flow. Listings are illustrative; central intake requires configuration.
 
-[Live demo](https://jfuix.github.io/HustleWise/) · [Repository](https://github.com/JFUIX/HustleWise)
+[Live website](https://jfuix.github.io/HustleWise/) · [Repository](https://github.com/JFUIX/HustleWise)
 
 ### 3. Ad Campaign Assistant
 
