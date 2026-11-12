@@ -47,6 +47,11 @@ A responsive editorial portfolio presenting social media marketing, paid adverti
 
 [Live website](https://jfuix.github.io/SJPortfolio/) · [Repository](https://github.com/JFUIX/SJPortfolio)
 
+<a href="https://jfuix.github.io/SJPortfolio/">
+  <img src="https://raw.githubusercontent.com/JFUIX/SJPortfolio/main/screenshots/portfolio-preview.png" width="100%" alt="SJPortfolio digital marketing portfolio screenshot without portrait">
+</a>
+
+
 ### 3. HustleWise
 
 **Business direction, relevant people, and practical support.**
