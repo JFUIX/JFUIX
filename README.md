@@ -56,13 +56,13 @@ A responsive editorial portfolio presenting social media marketing, paid adverti
 
 **Business direction, relevant people, and practical support.**
 
-<a href="https://jfuix.github.io/HustleWise/">
-  <img src="https://raw.githubusercontent.com/JFUIX/HustleWise/0fbc69f99a52ed81dff4716677a0b64c05f366e8/screenshots/hustlewise-current.png" width="100%" alt="Founder DNA early-access website with a reflective chrome hero and business support journeys">
+<a href="https://jfuix.github.io/FounderDNA/">
+  <img src="https://raw.githubusercontent.com/JFUIX/FounderDNA/0fbc69f99a52ed81dff4716677a0b64c05f366e8/screenshots/hustlewise-current.png" width="100%" alt="Founder DNA early-access website with a reflective chrome hero and business support journeys">
 </a>
 
 A business-focused platform prototype combining guided business briefs, collaborator and expert discovery, and distinct project-support and funding pathways. Features a responsive graphite interface, live reflective chrome artwork, floating cards, searchable example listings, and a consent-based enquiry flow. Listings are illustrative; central intake requires configuration.
 
-[Live website](https://jfuix.github.io/HustleWise/) · [Repository](https://github.com/JFUIX/HustleWise)
+[Live website](https://jfuix.github.io/FounderDNA/) · [Repository](https://github.com/JFUIX/FounderDNA)
 
 ### 4. Ad Campaign Assistant
 
