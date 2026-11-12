@@ -52,12 +52,12 @@ A responsive editorial portfolio presenting social media marketing, paid adverti
 </a>
 
 
-### 3. HustleWise
+### 3. Founder DNA
 
 **Business direction, relevant people, and practical support.**
 
 <a href="https://jfuix.github.io/HustleWise/">
-  <img src="https://raw.githubusercontent.com/JFUIX/HustleWise/0fbc69f99a52ed81dff4716677a0b64c05f366e8/screenshots/hustlewise-current.png" width="100%" alt="HustleWise early-access website with a reflective chrome hero and business support journeys">
+  <img src="https://raw.githubusercontent.com/JFUIX/HustleWise/0fbc69f99a52ed81dff4716677a0b64c05f366e8/screenshots/hustlewise-current.png" width="100%" alt="Founder DNA early-access website with a reflective chrome hero and business support journeys">
 </a>
 
 A business-focused platform prototype combining guided business briefs, collaborator and expert discovery, and distinct project-support and funding pathways. Features a responsive graphite interface, live reflective chrome artwork, floating cards, searchable example listings, and a consent-based enquiry flow. Listings are illustrative; central intake requires configuration.
