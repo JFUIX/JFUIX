@@ -39,7 +39,15 @@
 
 Built with **Next.js, React, TypeScript, HTML, CSS, and JavaScript** ·
 
-### 2. HustleWise
+### 2. SJPortfolio | Digital Marketing Portfolio
+
+**Creative strategy, paid campaigns, and measurable digital marketing.**
+
+A responsive editorial portfolio presenting social media marketing, paid advertising, SEO, campaign work, and a clear contact journey.
+
+[Live website](https://jfuix.github.io/SJPortfolio/) · [Repository](https://github.com/JFUIX/SJPortfolio)
+
+### 3. HustleWise
 
 **Business direction, relevant people, and practical support.**
 
@@ -51,7 +59,7 @@ A business-focused platform prototype combining guided business briefs, collabor
 
 [Live website](https://jfuix.github.io/HustleWise/) · [Repository](https://github.com/JFUIX/HustleWise)
 
-### 3. Ad Campaign Assistant
+### 4. Ad Campaign Assistant
 
 <a href="https://github.com/JFUIX/adcampaign-assistant">
   <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/data-review.svg.png" width="100%" alt="Ad Campaign Assistant campaign review">
@@ -63,7 +71,7 @@ An AI-assisted marketing tool for campaign ideation, creative angles, headline g
 
 <img src="https://raw.githubusercontent.com/JFUIX/adcampaign-assistant/main/screenshot/campaign-planner.svg.png" width="100%" alt="Ad Campaign Assistant campaign planner">
 
-### 4. Gain Shred Gym
+### 5. Gain Shred Gym
 
 <a href="https://github.com/JFUIX/Gainshred">
   <img src="https://raw.githubusercontent.com/JFUIX/Gainshred/main/assets/banner.png" width="100%" alt="Gain Shred Gym website banner">
@@ -75,7 +83,7 @@ A gym website concept featuring membership information and an interactive BMI ca
 
 [Live demo](https://jfuix.github.io/Gainshred/) · [Repository](https://github.com/JFUIX/Gainshred)
 
-### 5. CrumbleCookies by Tim
+### 6. CrumbleCookies by Tim
 
 <a href="https://github.com/JFUIX/CrumbleCookiesbyTim">
   <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/hero.png" width="100%" alt="CrumbleCookies by Tim website hero">
@@ -87,7 +95,7 @@ A dark, dreamy bakery website concept showcasing a distinctive visual identity a
 
 <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-order.png" width="100%" alt="CrumbleCookies by Tim order section">
 
-### 6. The Shane Foundation
+### 7. The Shane Foundation
 
 <a href="https://github.com/JFUIX/TSF">
   <img src="https://raw.githubusercontent.com/JFUIX/TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation nonprofit homepage redesign">
