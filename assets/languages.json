@@ -1,9 +1,10 @@
 {
   "metric": "GitHub-detected source bytes",
   "languages": {
-    "HTML": 1393299,
-    "CSS": 91801,
-    "JavaScript": 63157,
-    "TypeScript": 19578
+    "HTML": 1541896,
+    "CSS": 83641,
+    "JavaScript": 60510,
+    "PLpgSQL": 31483,
+    "TypeScript": 19619
   }
 }
