@@ -88,7 +88,17 @@ A gym website concept featuring membership information and an interactive BMI ca
 
 [Live demo](https://jfuix.github.io/Gainshred/) · [Repository](https://github.com/JFUIX/Gainshred)
 
-### 6. CrumbleCookies by Tim
+### 6. Electrical Lighting Co.
+
+<a href="https://github.com/JFUIX/ElectricalLightingCo.">
+  <img src="https://raw.githubusercontent.com/JFUIX/ElectricalLightingCo./main/screenshots/website-preview.png" width="100%" alt="Electrical Lighting Co. storefront preview">
+</a>
+
+A responsive electrical and lighting storefront demo featuring an interactive lighting showcase, searchable product catalogue, and client-side shopping basket.
+
+[Repository](https://github.com/JFUIX/ElectricalLightingCo.)
+
+### 7. CrumbleCookies by Tim
 
 <a href="https://github.com/JFUIX/CrumbleCookiesbyTim">
   <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/hero.png" width="100%" alt="CrumbleCookies by Tim website hero">
@@ -100,7 +110,7 @@ A dark, dreamy bakery website concept showcasing a distinctive visual identity a
 
 <img src="https://raw.githubusercontent.com/JFUIX/CrumbleCookiesbyTim/main/screenshots/desktop-order.png" width="100%" alt="CrumbleCookies by Tim order section">
 
-### 7. The Shane Foundation
+### 8. The Shane Foundation
 
 <a href="https://github.com/JFUIX/TSF">
   <img src="https://raw.githubusercontent.com/JFUIX/TSF/main/screenshot/hero.png" width="100%" alt="The Shane Foundation nonprofit homepage redesign">
