@@ -94,6 +94,8 @@ A gym website concept featuring membership information and an interactive BMI ca
   <img src="https://raw.githubusercontent.com/JFUIX/ElectricalLightingCo./main/screenshots/website-preview.png" width="100%" alt="Electrical Lighting Co. storefront preview">
 </a>
 
+<img src="https://raw.githubusercontent.com/JFUIX/ElectricalLightingCo./main/screenshots/electrical-lighting-shop-demo.gif" width="100%" alt="Electrical Lighting Co. animated website interaction walkthrough">
+
 A responsive electrical and lighting storefront demo featuring an interactive lighting showcase, searchable product catalogue, and client-side shopping basket.
 
 [Repository](https://github.com/JFUIX/ElectricalLightingCo.)
