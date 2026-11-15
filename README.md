@@ -52,17 +52,19 @@ A responsive editorial portfolio presenting social media marketing, paid adverti
 </a>
 
 
-### 3. Founder DNA
+### 3. FounderDNA | Founder Assessment & Business Support
 
-**Business direction, relevant people, and practical support.**
+**Understand your strengths. Find your gaps. Build what comes next.**
+
+A founder self-assessment and business-support platform with practical next steps, private progress dashboards, action plans, weekly reflections, guided briefs, and moderated community milestones. Supabase powers email-link sign-in and owner-scoped data access, with explicit consent for introductions and public sharing.
+
+[Live website](https://jfuix.github.io/FounderDNA/) · [Take the assessment](https://jfuix.github.io/FounderDNA/assessment.html) · [Repository](https://github.com/JFUIX/FounderDNA)
 
 <a href="https://jfuix.github.io/FounderDNA/">
-  <img src="https://raw.githubusercontent.com/JFUIX/FounderDNA/0fbc69f99a52ed81dff4716677a0b64c05f366e8/screenshots/hustlewise-current.png" width="100%" alt="Founder DNA early-access website with a reflective chrome hero and business support journeys">
+  <img src="https://raw.githubusercontent.com/JFUIX/FounderDNA/main/Screenshots/screenshot-half.png" width="100%" alt="FounderDNA homepage with a dark red founder-community hero, self-assessment introduction, and links to practical business support">
 </a>
 
-A business-focused platform prototype combining guided business briefs, collaborator and expert discovery, and distinct project-support and funding pathways. Features a responsive graphite interface, live reflective chrome artwork, floating cards, searchable example listings, and a consent-based enquiry flow. Listings are illustrative; central intake requires configuration.
-
-[Live website](https://jfuix.github.io/FounderDNA/) · [Repository](https://github.com/JFUIX/FounderDNA)
+Built with **HTML, CSS, JavaScript, and Supabase** · Hosted on **GitHub Pages**.
 
 ### 4. Ad Campaign Assistant
 
